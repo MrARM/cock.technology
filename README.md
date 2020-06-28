@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is https://cock.technology, it's an open source website which encourages changes to see where the site will go. Fork it and make a PR. if the changes are drastic a subdomain can be opened for it!
 ## Available Scripts
 
 In the project directory, you can run:
