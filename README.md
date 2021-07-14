@@ -1,3 +1,5 @@
+# The domain expired, so I have archived this project.
+
 This is https://cock.technology, it's an open source website which encourages changes to see where the site will go. Fork it and make a PR. if the changes are drastic a subdomain can be opened for it!
 ## Available Scripts
 
